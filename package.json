@@ -1,7 +1,7 @@
 {
     "name": "angular-redux-files",
     "displayName": "angular-redux-files",
-    "description": "Create Redux specific files, including Dumb Components, Actions, Epics and Reducers.",
+    "description": "Create Angular 2 Redux specific files, including Dumb Components, Actions, Epics and Reducers.",
     "version": "0.0.1",
     "publisher": "ddamko",
     "engines": {
